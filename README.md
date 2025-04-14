@@ -30,3 +30,4 @@ for port in range(1, 1025):
 end_time = datetime.now()
 total_time = end_time - start_time
 print(f"\nScan completed in: {total_time}")
+
